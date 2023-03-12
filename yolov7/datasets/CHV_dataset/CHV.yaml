@@ -1,0 +1,6 @@
+train: ./datasets/CHV_dataset/train
+test: ./datasets/CHV_dataset/test
+val: ./datasets/CHV_dataset/val
+
+nc: 6
+names: ['person', 'vest', 'yellow', 'white', 'red', 'blue']
