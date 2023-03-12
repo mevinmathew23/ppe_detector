@@ -9,4 +9,4 @@ PPE Detector Project
 
 DO NOT ADD OR COMMIT ANY NEW PACKAGES INTO THE REPOSITORY. The files are far too large to commit
 
-3. Add the original dataset to the folder called ```orig_datasets```. Once the images are split into train, test, val put them into the ```yolov7/datasets/pictor_ppe/<train/test/val> .
+3. Add the original dataset to the folder called ```orig_datasets```. Once the images are split into train, test, val put them into the ```yolov7/datasets/pictor_ppe/<train/test/val>```.
